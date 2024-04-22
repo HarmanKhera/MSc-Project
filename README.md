@@ -2,7 +2,7 @@
 
 This project was a part of my MSc. dissertation and used K-means clustering to investigate a protein called **FACT** in *Saccharomyces Cerrevisiae* (baker's yeast). The entire project was coded in Python (version 3.9) and the IDE was Microsoft Visual Studio (v. 1.82). 
 
-Some of the major results are shared below, and the full annotated code will be made available in due course.
+Some of the major results are shared below, and the full annotated code and PDF of the report will be made available in due course. (Meanwhile, the draft code jupyter notebook can be seen [here](https://github.com/HarmanKhera/MSc-Project/blob/main/Annotated%20Code.ipynb)).
 
 
 ## Data Analysis Pipeline
